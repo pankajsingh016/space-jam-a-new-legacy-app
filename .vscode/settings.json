@@ -1,3 +1,6 @@
 {
-    "codetour.showMarkers": false
+    "codetour.showMarkers": false,
+    "staticWebApps.appSubpath": "/",
+    "staticWebApps.apiSubpath": "api",
+    "staticWebApps.outputSubpath": "build"
 }
